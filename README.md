@@ -9,7 +9,9 @@ objective :
    - Perform Multiple File Handling and its Visualization.
    - Plotting text file data with lognormal fitting curves.
    - Multiple file Handling.
+   
  Conclusion:
+ 
    - here we used curve_fit function from the python library knwon as scipy.
    - Curve fitting examines the relationship between one or more predictors(independent variables) and a response variable (dependent variable),with a goal of     defining a "best fit" model of relationship.
    - Curve fitting involves first defining mapping function(basis function or objective function),then searching for the parameters to the function that results in the minimum error.
@@ -21,7 +23,9 @@ objective :
 objective: Exploratory Data Analysis on Covid_19 data.
   - To analyze the impacts of covid-19 on the economy of world and lives of people.
   - Performed various steps such as data extraction,data cleaining and plotting for better accuracy and visualization.
+  
  Conclusion:
+ 
   - Used exponential function of numpy.random for creating a random data.
   -  libraries such as pandas,numpy,matplotlib and seaborn are used.
 
@@ -32,6 +36,7 @@ objective:
 most while making booking for the hotels.
 
 Conclusion:
+
   - We can see that there two categories of hotel prefered by Customers they are "city hotels" and " Resort Hotels".
   - After doing EDA we see that most Prefered hotel are the 'city hotels'.
   - August,July,may,October and April had highest number of bookings ,reason behind this could be the summer vacations or festival holidays.
